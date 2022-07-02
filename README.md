@@ -46,7 +46,7 @@ Why Slingshot?
 
     This starter kit includes a working example app that calculates fuel savings. Note how all source code is placed under /src. Tests are placed alongside the file under test. The final built app is placed under /dist. These are the files you run in production.
 
-6. **Delete the example app files.**
+6. **Delete the example app files**
 
     Once you're comfortable with how the example app works, you can [delete those files and begin creating your own app](./docs/FAQ.md#i-just-want-an-empty-starter-kit).
 
